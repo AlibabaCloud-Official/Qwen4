@@ -15,6 +15,8 @@ Qwen4 is coming—built for real-world tasks, from complex coding and knowledge 
 
 Qwen4-Max is now in preview on Alibaba’s Token Plan.
 
+[Explore Token Plan on Alibaba Cloud](https://modelstudio.console.alibabacloud.com/ap-southeast-1/subscription/overview?utm_content=m_20000004906)
+
 You can also get early access to the new model on:
 
 - QwenWork
